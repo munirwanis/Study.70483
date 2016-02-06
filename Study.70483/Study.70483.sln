@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.WebClientDownloadFile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.DoWorkObjectTypes", "Study.DoWorkObjectTypes\Study.DoWorkObjectTypes.csproj", "{1C8C1B42-5CFA-4A29-AD8E-C5E50B2B4EF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.SqlData", "Study.SqlData\Study.SqlData.csproj", "{F9C4D819-93B0-4A7B-8655-A714A416358F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1C8C1B42-5CFA-4A29-AD8E-C5E50B2B4EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C8C1B42-5CFA-4A29-AD8E-C5E50B2B4EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C8C1B42-5CFA-4A29-AD8E-C5E50B2B4EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C4D819-93B0-4A7B-8655-A714A416358F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C4D819-93B0-4A7B-8655-A714A416358F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C4D819-93B0-4A7B-8655-A714A416358F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C4D819-93B0-4A7B-8655-A714A416358F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
