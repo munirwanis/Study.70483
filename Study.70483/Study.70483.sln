@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.WebClientDownloadFile", "Study.70483\Study.WebClientDownloadFile.csproj", "{8E0EC212-6FE9-4DC3-823B-CE0FE23EE81E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.DoWorkObjectTypes", "Study.DoWorkObjectTypes\Study.DoWorkObjectTypes.csproj", "{1C8C1B42-5CFA-4A29-AD8E-C5E50B2B4EF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8E0EC212-6FE9-4DC3-823B-CE0FE23EE81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E0EC212-6FE9-4DC3-823B-CE0FE23EE81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E0EC212-6FE9-4DC3-823B-CE0FE23EE81E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8C1B42-5CFA-4A29-AD8E-C5E50B2B4EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8C1B42-5CFA-4A29-AD8E-C5E50B2B4EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8C1B42-5CFA-4A29-AD8E-C5E50B2B4EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8C1B42-5CFA-4A29-AD8E-C5E50B2B4EF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
