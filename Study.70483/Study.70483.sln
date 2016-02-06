@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.WebClientDownloadFile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.RegexInputValidation", "Study.RegexInputValidation\Study.RegexInputValidation.csproj", "{F14EACA3-4381-4FA6-8AC9-27EBAE974490}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.ExceptionHandling", "Study.ExceptionHandling\Study.ExceptionHandling.csproj", "{BE4956EC-60A8-465A-B0CD-AC9223669825}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F14EACA3-4381-4FA6-8AC9-27EBAE974490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F14EACA3-4381-4FA6-8AC9-27EBAE974490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F14EACA3-4381-4FA6-8AC9-27EBAE974490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4956EC-60A8-465A-B0CD-AC9223669825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4956EC-60A8-465A-B0CD-AC9223669825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4956EC-60A8-465A-B0CD-AC9223669825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4956EC-60A8-465A-B0CD-AC9223669825}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
