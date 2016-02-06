@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.DoWorkObjectTypes", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.SqlData", "Study.SqlData\Study.SqlData.csproj", "{F9C4D819-93B0-4A7B-8655-A714A416358F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.GarbageCollection", "Study.GarbageCollection\Study.GarbageCollection.csproj", "{3DA28D93-E797-4C62-910F-424240A625DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F9C4D819-93B0-4A7B-8655-A714A416358F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9C4D819-93B0-4A7B-8655-A714A416358F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9C4D819-93B0-4A7B-8655-A714A416358F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA28D93-E797-4C62-910F-424240A625DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA28D93-E797-4C62-910F-424240A625DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA28D93-E797-4C62-910F-424240A625DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA28D93-E797-4C62-910F-424240A625DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
