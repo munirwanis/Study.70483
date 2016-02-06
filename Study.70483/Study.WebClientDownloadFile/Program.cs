@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net;
 
-namespace Study._70483 {
+namespace Study.WebClientDownloadFile {
     class Program {
         static void Main(string[] args) {
             try {

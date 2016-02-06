@@ -7,8 +7,8 @@
     <ProjectGuid>{8E0EC212-6FE9-4DC3-823B-CE0FE23EE81E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Study._70483</RootNamespace>
-    <AssemblyName>Study.70483</AssemblyName>
+    <RootNamespace>Study.WebClientDownloadFile</RootNamespace>
+    <AssemblyName>Study.WebClientDownloadFile</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
