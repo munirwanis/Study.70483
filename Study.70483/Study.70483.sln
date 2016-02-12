@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.LambdaExpression", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.MemoryStream", "Study.MemoryStream\Study.MemoryStream.csproj", "{300D263F-85A8-4A88-80AF-31CF43021484}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.JsonSerializer", "Study.JsonSerializer\Study.JsonSerializer.csproj", "{AFCFBD1B-1E41-4973-9A79-0ABB0C7A6AFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{300D263F-85A8-4A88-80AF-31CF43021484}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{300D263F-85A8-4A88-80AF-31CF43021484}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{300D263F-85A8-4A88-80AF-31CF43021484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCFBD1B-1E41-4973-9A79-0ABB0C7A6AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCFBD1B-1E41-4973-9A79-0ABB0C7A6AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCFBD1B-1E41-4973-9A79-0ABB0C7A6AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCFBD1B-1E41-4973-9A79-0ABB0C7A6AFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
