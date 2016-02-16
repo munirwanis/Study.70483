@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.JsonSerializer", "Stu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.CryptographicHash", "Study.CryptographicHash\Study.CryptographicHash.csproj", "{9F343CA0-A426-4A2C-989F-0F65C1D44629}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.ValidatingDate", "Study.ValidatingDate\Study.ValidatingDate.csproj", "{BAF9AA3B-3C78-45BC-A9E7-D03E21BE924B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{9F343CA0-A426-4A2C-989F-0F65C1D44629}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F343CA0-A426-4A2C-989F-0F65C1D44629}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F343CA0-A426-4A2C-989F-0F65C1D44629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF9AA3B-3C78-45BC-A9E7-D03E21BE924B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF9AA3B-3C78-45BC-A9E7-D03E21BE924B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF9AA3B-3C78-45BC-A9E7-D03E21BE924B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF9AA3B-3C78-45BC-A9E7-D03E21BE924B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
