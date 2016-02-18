@@ -1,8 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Study.DoWorkObjectTypes {
     class Program {
         static void Main(string[] args) {
+            Queue<Worker> queue = new Queue<Worker>();
+            queue.Enqueue(new Worker());
             Worker worker = new Worker();
             worker.Run();
             Console.ReadKey();
